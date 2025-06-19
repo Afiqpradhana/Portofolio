@@ -1,7 +1,7 @@
 [
     {
         "company": "PT.Telkom Akses Pasuruan",
-		"logo":"images/polines-logo.png",
+		"logo":"images/telkom-akses.png",
         "position": "Internship",
         "year": "2021",
         "description": "I did an internship at PT Telkom Akses Pasuruan and was placed in the data management section."
@@ -11,7 +11,7 @@
 		"logo":"images/umn-logo.png",
         "position": "Monitoring",
         "year": "2021 - Present",
-        "description": ""
+        "description": "At Pradana Offset, my job is to monitor paper stock, deliver goods to the warehouse, and report taxes."
     },
     
 ]

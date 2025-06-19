@@ -1,16 +1,16 @@
 [
     {
-        "university": "SMK Telkom Darul Ullum",
+        "university": "SMK Telekomunikasi Darul Ullum",
 		"logo": "images/logo-smk-telekomunikasi-darul-ulum.png",
-        "major": "Teknik Komputer Jaringan",
+        "major": "computer network Engineering",
         "year": "2019 - 2022",
-        "description": ""
+        "description": "create network topology with appropriate ip addresses"
     },
     {
         "university": "Politeknik Negeri semarang",
 		"logo": "images/Logo-Polines.png",
         "major": "Electronic Engginering",
         "year": "2022 - 2026",
-        "description": " "
+        "description": "making line follower robot, pid control, medical electronics"
     }
 ]

@@ -22,11 +22,10 @@
 			"text": "Download CV",
 			"file": "Muhammad Nur Afiq Curriculum Vitae.pdf",
 			"icon": "fas fa-file-pdf"
-	},
+	    },
     "skills": [
         {"name": "Technic Networking", "icon": "fas fa-network-wired", "level": 90},
         {"name": "Programing", "icon": "fas fa-python", "level": 70},
-        {"name": "Instalation Network", "icon": "fas fa-wifi", "level": 90},
-        
+        {"name": "Instalation Network", "icon": "fas fa-wifi", "level": 90}
     ]
 }

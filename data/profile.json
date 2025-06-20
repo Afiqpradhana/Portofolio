@@ -24,10 +24,10 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Technic Networking", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Programing", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Technic Networking", "icon": "fas fa-network-wired", "level": 90},
+        {"name": "Programing", "icon": "fas fa-python", "level": 70},
         {"name": "Instalation Network", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+        
 	
     ]
 }
